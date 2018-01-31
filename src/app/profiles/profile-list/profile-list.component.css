@@ -1,0 +1,13 @@
+.list {
+    background: #dedede;
+    border-radius: 3px;
+    padding: 10px;
+    height: 100%;
+}
+.plus {
+    color: #fff;
+}
+
+button {
+    margin: 5px;
+}
